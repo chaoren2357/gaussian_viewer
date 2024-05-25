@@ -6,6 +6,13 @@ The viewer is fully written in python, which makes development and debugging ver
 
 <img src="images/full.png">
 
+## TODO List
+- [] Camera control adds ijkluo
+- [] Check the video saving and add file loading 
+- [] Add real time visualization of training
+
+
+
 ## Install
 Clone repository **recursively** in order to install glm from the diff_gaussian_rasterization package.
 ```
